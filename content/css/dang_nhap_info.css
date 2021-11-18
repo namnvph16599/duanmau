@@ -1,0 +1,13 @@
+.quanli__text {
+  font-size: 1.5rem;
+  color: #fff;
+}
+.quanli_link {
+  font-size: 1.3rem;
+  color: #000;
+  text-decoration: none;
+}
+.quanli_link:hover {
+  color: #fff;
+  text-decoration: none ;
+}

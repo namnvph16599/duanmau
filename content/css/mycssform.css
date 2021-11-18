@@ -1,0 +1,104 @@
+.content_top {
+  height: 50px;
+  background-color: var(--white-color);
+}
+.content {
+  background-color: var(--primary-color);
+}
+.content_register {
+  background-color: var(--primary-color);
+}
+.imgform {
+  margin: 210px 200px;
+}
+.myform_register {
+  width: 400px;
+  background-color: var(--white-color);
+  margin: 50px 0;
+  border-radius: 4px;
+  box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
+}
+form.myform {
+  width: 400px;
+  background-color: var(--white-color);
+  margin: 50px 0;
+  border-radius: 4px;
+  box-shadow: 0 3px 10px 0 rgb(0 0 0 / 14%);
+}
+h2.content__right-title {
+  padding-top: 40px;
+  padding-left: 20px;
+  font-size: 2.4rem;
+}
+input.myinput {
+  width: 335px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 32px;
+  font-size: 1.4rem;
+  padding-left: 6px;
+  border: 1px solid #000000;
+  color: #999;
+  border-radius: 2px;
+}
+.input_check {
+  margin-left: 32px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.input_check-text {
+  font-size: 1.4rem;
+}
+.mybtnlogin {
+  width: 335px;
+  height: 40px;
+  margin-top: 20px;
+  margin-left: 32px;
+  font-size: 1.5rem;
+  padding-left: 6px;
+  border: none;
+  outline: none;
+  color: var(--white-color);
+  background-color: var(--primary-color);
+  border-radius: 2px;
+  margin-bottom: 12px;
+}
+.mybtnlogin:hover {
+  cursor: pointer;
+}
+.myform_link-div {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 50px;
+}
+.myform_link-text {
+  text-decoration: none;
+  margin-left: 32px;
+  margin-right: 32px;
+  font-size: 1.4rem;
+}
+.myform_link-text:hover {
+  text-decoration: none;
+}
+.myinput_bl {
+  width: 100%;
+  height: 42px;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
+.mybtn_bl {
+  width: 100%;
+  height: 42px;
+  background: #ff0000;
+  font-size: 1.6rem;
+  font-weight: 500;
+  display: inline-block;
+  color: #fff;
+  outline: none;
+  border: none;
+}
+.mybtn_bl:hover {
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
